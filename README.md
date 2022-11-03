@@ -1,2 +1,2 @@
-# dynamo-dict-update
+# py-dynamo-request
 A util to compute update request from two dictionaries
